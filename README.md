@@ -1,5 +1,5 @@
 # ROCK 5B+ Linux 6.1 Development Build
-[![Build image for Release channel](https://github.com/radxa-build/rock-5b-plus-6_1/actions/workflows/build.yml/badge.svg)](https://github.com/radxa-build/rock-5b-plus-6_1/actions/workflows/build.yml) [![Build image for Test channel](https://github.com/radxa-build/rock-5b-plus-6_1/actions/workflows/test.yml/badge.svg)](https://github.com/radxa-build/rock-5b-plus-6_1/actions/workflows/test.yml)
+[![Build image for Release channel](https://github.com/radxa-build/rock-5b-plus-6_1/actions/workflows/build.yaml/badge.svg)](https://github.com/radxa-build/rock-5b-plus-6_1/actions/workflows/build.yaml) [![Build image for Test channel](https://github.com/radxa-build/rock-5b-plus-6_1/actions/workflows/test.yaml/badge.svg)](https://github.com/radxa-build/rock-5b-plus-6_1/actions/workflows/test.yaml)
 
 ## What is this?
 
